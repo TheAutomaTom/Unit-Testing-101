@@ -4,10 +4,10 @@
 /bin/*
 /obj/*
 /packages/*
-Pluralsight/TDD/DeskBooker.Core/DeskBooker.Core/obj/
-Pluralsight/TDD/DeskBooker.Core/DeskBooker.Core/bin/
-Pluralsight\TDD\DeskBooker.Core.Tests\DeskBooker.Core.Tests/obj/
-Pluralsight\TDD\DeskBooker.Core.Tests\DeskBooker.Core.Tests/bin/
+Pluralsight/TDD/DeskBooker.Core/DeskBooker.Core/obj/*
+Pluralsight/TDD/DeskBooker.Core/DeskBooker.Core/bin/*
+Pluralsight/TDD\DeskBooker.Core.Tests/DeskBooker.Core.Tests/obj/*
+Pluralsight/TDD\DeskBooker.Core.Tests/DeskBooker.Core.Tests/bin/*
 Pluralsight/TDD/DeskBooker.Core.Tests/.vs/DeskBooker.Core.Tests/DesignTimeBuild/*
 Pluralsight/TDD/DeskBooker.Core.Tests/.vs/DeskBooker.Core.Tests/FileContentIndex/*
 
