@@ -15,7 +15,9 @@ namespace DemoCode
             Customer = customer;
             Items = new List<OrderItem>();
         }
-    }
+
+    public override string ToString() => $"{Id}-{Customer.CustomerName}";
+  }
 
     public class OrderItem
     {
